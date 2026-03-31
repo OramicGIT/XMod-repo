@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ac17f0b65ad170491bd78b79e3c72cf3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - baseBlockPrefab: {fileID: 3352612821417431518, guid: 6d5200e850e0e32cd857a76ccbc83699, type: 3}
+  - missingTextureSprite: {fileID: 21300000, guid: a43519402742cfc8bac150c37c0b098d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
