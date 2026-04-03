@@ -9,11 +9,12 @@ TagManager:
   - RelayUI_Input
   - RelayUI_Display
   - RelayUI_Canvas
+  - RelayUI_HostBtn
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - CamBound
   - Water
   - UI
   - Bounds
