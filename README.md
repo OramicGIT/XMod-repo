@@ -25,6 +25,7 @@ Place mods in the following folder:
 
 - **Windows:** `C:\Users\%USER%\AppData\LocalLow\OramiX\XMod\Mods`
 - **Linux:** `/home/<user>/.config/unity3d/OramiX/XMod/Mods`
+- **itch.io WebGL:** `Go into the settings, press "Load Mods" button, then select your mods and click OK. Your mods gonna be saved into the IndexedDB`
 
 > **Note:** These folders are hidden by default.
 > On Linux, press `Ctrl + H` to show hidden files.
