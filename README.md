@@ -64,4 +64,3 @@ See the [LICENSE](LICENSE) file for details.
 
 - [GitHub Pages](https://oramicgit.github.io/XMod-repo)
 - [itch.io](https://oramix.itch.io/xmod)
-- [ModDB](https://moddb.com/games/xmod)
