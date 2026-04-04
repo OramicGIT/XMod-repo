@@ -46,10 +46,9 @@ Place mods in the following folder:
 
 ## Contributing
 
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+Contributions are welcome! Feel free to open an issue!
 
 - **Bug reports:** Use the [Issues](https://github.com/OramicGIT/XMod-repo/issues) tab
-- **Pull requests:** Fork the repo, make your changes, and open a pull request to the `community` branch. Your features might even make it into the final game!
 
 ## License
 
