@@ -19,7 +19,7 @@ XMod is a physics sandbox game where you can build anything you can imagine.
 
 ## Modding
 
-XMod supports community mods. Browse and download mods on [ModDB](https://moddb.com/games/xmod).
+XMod supports community mods.
 
 Place mods in the following folder:
 
