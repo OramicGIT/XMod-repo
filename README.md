@@ -25,7 +25,7 @@ Place mods in the following folder:
 
 - **Windows:** `C:\Users\%USER%\AppData\LocalLow\OramiX\XMod\Mods`
 - **Linux:** `/home/<user>/.config/unity3d/OramiX/XMod/Mods`
-- **itch.io WebGL:** `Go into the settings, press "Load Mods" button, then select your mods and click OK. Your mods gonna be saved into the IndexedDB`
+- **itch.io WebGL:** `Every supported mod is loaded into runtime when started`
 
 > **Note:** These folders are hidden by default.
 > On Linux, press `Ctrl + H` to show hidden files.
@@ -41,9 +41,10 @@ Place mods in the following folder:
 
 1. Clone the repository:
    git clone https://github.com/OramicGIT/XMod-repo.git
-2. Unpack `Assets.zip` inside the `src/` folder
-3. Open the project in Unity 2022.3.62f3
-4. Open the main scene (`Menu`) and hit **Play** to test, or build via **File → Build Settings**
+2. Unpack `Code.zip` inside the `src/` folder
+3. Create a new Unity project, then replace the Assets, Packages and ProjectSettings with unpacked folders, and remove the Library and Temp folder before starting Unity again.
+4. Open the final project in Unity.
+5. Open the main scene (`Menu`) and hit **Play** to test, or build via **File → Build Settings**
 
 ## Contributing
 
