@@ -15,8 +15,6 @@ XMod is a physics sandbox game where you can build anything you can imagine.
 > chmod +x XMod.x86_64
 > ```
 
-> **Note:** macOS is not supported.
-
 ## Modding
 
 XMod supports community mods.
@@ -25,11 +23,13 @@ Place mods in the following folder:
 
 - **Windows:** `C:\Users\%USER%\AppData\LocalLow\OramiX\XMod\Mods`
 - **Linux:** `/home/<user>/.config/unity3d/OramiX/XMod/Mods`
+- **MacOS (Intel Mac and modern Mac):** `~/Library/Application Support/com.OramiX.XMod/Mods`
 - **itch.io WebGL:** `Not supported`
 
 > **Note:** These folders are hidden by default.
 > On Linux, press `Ctrl + H` to show hidden files.
 > On Windows, enable **Show hidden files** in Folder Options.
+> On Mac, press `Command + Shift + period` in Finder to show hidden files
 
 ## Building from Source
 
@@ -41,7 +41,7 @@ Place mods in the following folder:
 
 1. Clone the repository:
    git clone https://github.com/OramicGIT/XMod-repo.git
-2. Unpack `Code.zip` inside the `src/` folder
+2. Unpack `Code.zip`
 3. Create a new Unity project, then replace the Assets, Packages and ProjectSettings with unpacked folders, and remove the Library and Temp folder before starting Unity again.
 4. Open the final project in Unity.
 5. Open the main scene (`Menu`) and hit **Play** to test, or build via **File → Build Settings**
