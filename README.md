@@ -14,7 +14,7 @@ XMod is a physics sandbox game where you can build anything you can imagine.
 > ```
 > chmod +x XMod.x86_64
 > ```
-> **Mac:** Before running, right-click to open it.
+> **Mac:** Right-click to open it to skip Gatekeeper
 
 ## Modding
 
