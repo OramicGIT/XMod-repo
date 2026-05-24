@@ -14,7 +14,6 @@ XMod is a physics sandbox game where you can build anything you can imagine.
 > ```
 > chmod +x XMod.x86_64
 > ```
-> **Mac:** Right-click to open it to skip Gatekeeper
 
 ## Modding
 
@@ -24,7 +23,7 @@ Place mods in the following folder:
 
 - **Windows:** `C:\Users\%USER%\AppData\LocalLow\OramiX\XMod\Mods`
 - **Linux:** `/home/<user>/.config/unity3d/OramiX/XMod/Mods`
-- **MacOS (Intel Mac and modern Mac):** `~/Library/Application Support/com.OramiX.XMod/Mods`
+- **Android:** `/android/data/com.OramiX.XMod/Mods`
 - **itch.io WebGL:** `Not supported`
 
 > **Note:** These folders are hidden by default.
