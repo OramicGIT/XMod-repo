@@ -65,3 +65,20 @@ See the [LICENSE](LICENSE) file for details.
 
 - [GitHub Pages](https://oramicgit.github.io/XMod-repo)
 - [itch.io](https://oramix.itch.io/xmod)
+
+## A note
+Hello everyone,
+
+I am writing this to share an important update regarding the current status and future direction of this project.
+
+After some careful reflection on the current state of development, I have decided to implement significant changes to the game’s core assets. Moving forward, I will be removing all creative contributions from Emery, including specific character designs and audio tracks that were previously integrated into the build.
+
+This decision stems from a fundamental divergence in creative vision and the operational philosophy behind the project. As the sole developer, it is important to me that every element within the game reflects a singular, cohesive intent. Maintaining external dependencies that no longer align with the project’s evolution has become counterproductive to the experience I aim to create. My goal is to ensure that the project remains a pure reflection of my own design language and technical vision, free from the constraints of collaborative compromises that have hindered the development process.
+
+I want to express my gratitude to those who have followed the development journey so far. This transition is a necessary step to ensure that the project can grow into the vision I have always intended for it. Thank you for your continued patience and understanding as I move forward with these changes.
+
+Best regards,
+
+!OramiX (the lead developer of the game)
+
+P.S. The game is temporarily unavailable for download while I replace certain assets. I’ve decided to move the project in a new direction, as I prefer to keep my creative work free from external ideological agendas and personal stances that don't align with my own. A clean update will be released shortly.
