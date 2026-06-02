@@ -20,6 +20,6 @@ Select your assets, and then add a Bundle name to them
 ## STEP 10:
 Go to XMod SDK > Build "platform name"
 ## STEP 11:
-After each platform, cut them into another place that isn't the mod export folder and isn't your XMod project folder, and build another Bundle. Name Bundles like (categoryname)_modname.xmod_platformname. Category names: Misc, Alive, Weapon and Explosive **THESE NAMES ARE NOT CASE-SENSITIVE!** modname is your mod name (No spaces in it) and _platformname should be replaced like this: _windows, _linux and _droid.
+After each platform, cut them into another place that isn't the mod export folder and isn't your XMod project folder, and build another Bundle. Name Bundles like (categoryname)_modname.xmod_platformname. Category names: Misc, Alive, Weapon, Explosive and All **THESE NAMES ARE NOT CASE-SENSITIVE!** modname is your mod name (No spaces in it) and _platformname should be replaced like this: _windows, _linux and _droid.
 ## STEP 12:
 After you have all bundles, compress them into a ZIP (bundles in the root of the ZIP) and send me. I'll upload them onto a place everyone can download the mod. 
