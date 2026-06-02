@@ -29,7 +29,6 @@ Place mods in the following folder:
 > **Note:** These folders are hidden by default.
 > On Linux, press `Ctrl + H` to show hidden files.
 > On Windows, enable **Show hidden files** in Folder Options.
-> On Mac, press `Command + Shift + period` in Finder to show hidden files
 
 ## Building from Source
 
