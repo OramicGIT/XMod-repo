@@ -1,2 +1,0 @@
-- name: Github pages debian/ubuntu repository
-  uses: smeinecke/apt-repo-action@v2.1.8
