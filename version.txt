@@ -1,2 +1,2 @@
-// Keep track of the version, 1.4 is currently a test
-1.4
+// This is the latest server version. The client version is set in the client.
+1.3
